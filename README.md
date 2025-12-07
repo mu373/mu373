@@ -1,1 +1,16 @@
 PhD student at the [Network Science Institute](https://www.networkscienceinstitute.org/) at Northeastern University, interested in decomposing human and social dynamics through various data and mathematical models. My research interest lies around the area of network science, infectious disease epidemiology, Bayesian inference, and computational social science.
+
+**Selected projects**
+- [mobs-lab/epymodelingsuite](https://github.com/mobs-lab/epymodelingsuite): Modeling suite for infectious diseases using Approximated Bayesian Computation.
+- [tailestim](https://github.com/mu373/tailestim/): Python package for estimating tail parameters of heavy-tailed distributions (i.e., powerlaw exponent).
+- [epiweek](https://github.com/mu373/epiweek): Epidemiological week conversion tool for TypeScript/JavaScript.
+- [epiweek-web](https://github.com/mu373/epiweek-web): Simple web calendar and REST API for MMWR epiweeks. [(web)](https://epiweek.vercel.app/)
+- [documentation](https://github.com/mu373/documentation): Documentations for computation and science. Built with Docusaurus.
+- [md-book-viewer](https://github.com/mu373/md-book-viewer): Web viewer for Markdown books with Algolia full text search.
+- [kaken-search](https://github.com/mu373/kaken-search): CLI tool to search for researchers on KAKEN database.
+- [atom-s3-co2](https://github.com/mu373/atom-s3-co2): CO2 monitor integration for M5Stack AtomS3 and UD-CO2S.
+- [co2-monitor](https://github.com/mu373/co2-monitor): CLI tool to get sensor values from UD-CO2S.
+- [booklog-tool](https://github.com/mu373/booklog-tool): CLI tool to update book information on booklog.jp.
+- [docker-electrs](https://github.com/mu373/docker-electrs): Docker conainer for running electrs, which uses bitcoind running in a separate container.
+- [docker-bitcoind](https://github.com/mu373/docker-bitcoind): Docker conainer for running bitcoind.
+- [asterisk-hikari](https://github.com/mu373/asterisk-hikari): Asterisk server on Docker that connects to Hikari Denwa via NTT East Home Gateway.
