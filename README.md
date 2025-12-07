@@ -1,0 +1,1 @@
+PhD student at the [Network Science Institute](https://www.networkscienceinstitute.org/) at Northeastern University, interested in decomposing human and social dynamics through various data and mathematical models. My research interest lies around the area of network science, infectious disease epidemiology, Bayesian inference, and computational social science.
