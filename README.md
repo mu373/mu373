@@ -5,6 +5,7 @@ PhD student at the [Network Science Institute](https://www.networkscienceinstitu
 - [tailestim](https://github.com/mu373/tailestim/): Python package for estimating tail parameters of heavy-tailed distributions (i.e., power law exponent). [[doc]](https://tailestim.readthedocs.io/en/latest/)
 - [epiweek](https://github.com/mu373/epiweek): Epidemiological week conversion tool for TypeScript/JavaScript.
 - [epiweek-web](https://github.com/mu373/epiweek-web): Simple web calendar and REST API for MMWR epiweeks. [[web]](https://epiweek.vercel.app/)
+- [mcmc-visualization](https://github.com/mu373/mcmc-visualization/): Interactive 3D visualization of MCMC sampling algorithms [[web]](https://mcmc-visualization.vercel.app/)
 - [md-book-viewer](https://github.com/mu373/md-book-viewer): Web viewer for Markdown books with Algolia full text search.
 - [team-mirai-volunteer/poster-map](https://github.com/team-mirai-volunteer/poster-map): Interactive map to track bulletin boards status during the 2024 Tokyo gubernatorial election. [[article]](https://note.com/annotakahiro24/n/nb7c6d5d5f172)
 - [config-editor](https://github.com/mu373/config-editor): JSON Schema-aware YAML/JSON editor. [[web]](https://config-editor.vercel.app/)
