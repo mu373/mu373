@@ -2,6 +2,8 @@ PhD student at the [Network Science Institute](https://www.networkscienceinstitu
 
 **Selected projects**
 - [mobs-lab/epymodelingsuite](https://github.com/mobs-lab/epymodelingsuite): Python-based modeling suite for infectious diseases using Approximate Bayesian Computation.
+- [mobs-lab/epymodelingsuite-cloud](https://github.com/mobs-lab/epymodelingsuite-cloud): Serverless, scalable pipeline + CLI tool `epycloud` for running epymodelingsuite on Google Cloud.
+- [epimodelviz](https://github.com/mu373/epimodelviz): Visualize epidemiological compartment models from YAML. [[web]](https://epimodelviz.vercel.app/)
 - [tailestim](https://github.com/mu373/tailestim/): Python package for estimating tail parameters of heavy-tailed distributions (i.e., power law exponent). [[doc]](https://tailestim.readthedocs.io/en/latest/)
 - [epiweek](https://github.com/mu373/epiweek): Epidemiological week conversion tool for TypeScript/JavaScript.
 - [epiweek-web](https://github.com/mu373/epiweek-web): Simple web calendar and REST API for MMWR epiweeks. [[web]](https://epiweek.vercel.app/)
