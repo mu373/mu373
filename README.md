@@ -14,6 +14,7 @@ PhD student at the [Network Science Institute](https://www.networkscienceinstitu
 - [mcmc-visualization](https://github.com/mu373/mcmc-visualization/): Interactive 3D visualization of MCMC sampling algorithms. [[web]](https://mcmc-visualization.vercel.app/)
 
 **Utilities**
+- [HeadRSS](https://github.com/mu373/headrss): Self-hosted, headless Google Reader compatible RSS sync backend on Cloudflare Workers + D1.
 - [MathEdit](https://github.com/mu373/mathedit/): Convert LaTeX math equations to SVG with embedded metadata for seamless round-trip editing. [[web]](https://mathedit.vercel.app/) [[macOS]](https://github.com/mu373/mathedit/releases)
 - [md-book-viewer](https://github.com/mu373/md-book-viewer): Web viewer for Markdown books with Algolia full text search.
 - [team-mirai-volunteer/poster-map](https://github.com/team-mirai-volunteer/poster-map): Interactive map to track bulletin boards status during the 2024 Tokyo gubernatorial election. [[article]](https://note.com/annotakahiro24/n/nb7c6d5d5f172)
