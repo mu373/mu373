@@ -5,6 +5,7 @@ PhD student at the [Network Science Institute](https://www.networkscienceinstitu
 **Epidemiology**
 - [mobs-lab/epymodelingsuite](https://github.com/mobs-lab/epymodelingsuite): Python-based modeling suite for infectious diseases using Approximate Bayesian Computation.
 - [mobs-lab/epymodelingsuite-cloud](https://github.com/mobs-lab/epymodelingsuite-cloud): Serverless, scalable pipeline + CLI tool `epycloud` for running epymodelingsuite on Google Cloud.
+- [epydemix-webapi](https://github.com/mu373/epydemix-webapi): REST API for running epidemic simulations on epydemix. [[doc]](https://epydemix-webapi.vercel.app/docs/)
 - [epimodelviz](https://github.com/mu373/epimodelviz): Visualize epidemiological compartment models from YAML. [[web]](https://epimodelviz.vercel.app/)
 - [epiweek](https://github.com/mu373/epiweek): Epidemiological week conversion tool for TypeScript/JavaScript. [[npm]](https://www.npmjs.com/package/@mu373/epiweek)
 - [epiweek-web](https://github.com/mu373/epiweek-web): Simple web calendar and REST API for MMWR epiweeks. [[web]](https://epiweek.vercel.app/)
